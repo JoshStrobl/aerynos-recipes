@@ -1,7 +1,7 @@
 From c034a267d5fd752394d1cb35531c649661da3e26 Mon Sep 17 00:00:00 2001
 From: Hijae Song <hijae@naver.com>
 Date: Tue, 1 Sep 2026 22:48:15 +0900
-Subject: [PATCH 158/172] [NOT-FOR-UPSTREAM] aw87xxx: add DMI-based firmware
+Subject: [PATCH 159/176] [NOT-FOR-UPSTREAM] aw87xxx: add DMI-based firmware
  filename selection
 
 Multiple AyaNeo/Ayn/Orange Pi devices ship the aw87xxx amplifier with

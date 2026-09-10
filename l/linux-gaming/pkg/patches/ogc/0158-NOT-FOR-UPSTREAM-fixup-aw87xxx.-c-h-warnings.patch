@@ -1,7 +1,7 @@
 From 4f558bb75572ac57a66efb29efbd692f774c0142 Mon Sep 17 00:00:00 2001
 From: Bouke Sybren Haarsma <boukehaarsma23@gmail.com>
 Date: Sat, 27 Jul 2024 08:22:20 +0200
-Subject: [PATCH 157/172] [NOT-FOR-UPSTREAM] fixup aw87xxx.{c,h} warnings
+Subject: [PATCH 158/176] [NOT-FOR-UPSTREAM] fixup aw87xxx.{c,h} warnings
 
 This is deliberately an OGC-carried patch and must not be sent upstream.
 

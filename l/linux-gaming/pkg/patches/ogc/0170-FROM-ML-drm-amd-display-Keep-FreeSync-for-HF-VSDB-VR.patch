@@ -1,7 +1,7 @@
 From 7e1b4daf78c92ee2b0bab4c20cb6396894b367d9 Mon Sep 17 00:00:00 2001
 From: Fangzhi Zuo <Jerry.Zuo@amd.com>
 Date: Tue, 1 Sep 2026 15:12:51 -0400
-Subject: [PATCH 169/172] [FROM-ML] drm/amd/display: Keep FreeSync for HF-VSDB
+Subject: [PATCH 170/176] [FROM-ML] drm/amd/display: Keep FreeSync for HF-VSDB
  VRR sinks in MCCS fallback
 
 amdgpu_dm_update_freesync_caps() clears freesync_capable for any

@@ -1,7 +1,7 @@
 From f368efbc082910ab4b4d874cfa3f0b06020b9ca9 Mon Sep 17 00:00:00 2001
 From: Fangzhi Zuo <Jerry.Zuo@amd.com>
 Date: Wed, 2 Sep 2026 12:58:59 +0800
-Subject: [PATCH 172/172] [FROM-ML] drm/amd/display: Fix NULL deref of
+Subject: [PATCH 173/176] [FROM-ML] drm/amd/display: Fix NULL deref of
  new_stream->sink in VTEM guard
 
 [Why & How]

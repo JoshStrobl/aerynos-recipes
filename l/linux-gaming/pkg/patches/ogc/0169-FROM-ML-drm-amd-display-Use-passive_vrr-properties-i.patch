@@ -1,7 +1,7 @@
 From c42b59c1fe3631a16f2599ae53bb9a036651f560 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Tomasz=20Paku=C5=82a?= <tomasz.pakula.oficjalny@gmail.com>
 Date: Tue, 1 Sep 2026 15:12:50 -0400
-Subject: [PATCH 168/172] [FROM-ML] drm/amd/display: Use passive_vrr properties
+Subject: [PATCH 169/176] [FROM-ML] drm/amd/display: Use passive_vrr properties
  in amdgpu
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

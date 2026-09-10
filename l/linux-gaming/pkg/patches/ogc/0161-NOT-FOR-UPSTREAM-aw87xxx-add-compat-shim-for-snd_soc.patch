@@ -1,7 +1,7 @@
 From 0928c8413bb43a9bd669be84514a14d6a9c5fc33 Mon Sep 17 00:00:00 2001
 From: Hijae Song <hijae@naver.com>
 Date: Tue, 1 Sep 2026 22:54:42 +0900
-Subject: [PATCH 160/172] [NOT-FOR-UPSTREAM] aw87xxx: add compat shim for
+Subject: [PATCH 161/176] [NOT-FOR-UPSTREAM] aw87xxx: add compat shim for
  snd_soc_unregister_component
 
 Newer kernels (6.16+) changed snd_soc_unregister_component()'s

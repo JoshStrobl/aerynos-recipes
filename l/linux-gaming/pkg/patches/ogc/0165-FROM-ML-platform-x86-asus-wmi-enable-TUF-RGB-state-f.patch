@@ -1,7 +1,7 @@
 From 20d9cf5746464e6fdfe44cc8edff2e51fb906399 Mon Sep 17 00:00:00 2001
 From: Idotoho Reimon Simanjuntak <idotohors@gmail.com>
 Date: Thu, 3 Sep 2026 00:47:17 +0700
-Subject: [PATCH 164/172] [FROM-ML] platform/x86: asus-wmi: enable TUF RGB
+Subject: [PATCH 165/176] [FROM-ML] platform/x86: asus-wmi: enable TUF RGB
  state for FA401 via DMI quirk
 
 The FA401 (TUF Gaming A14) series does not expose the TUF RGB state

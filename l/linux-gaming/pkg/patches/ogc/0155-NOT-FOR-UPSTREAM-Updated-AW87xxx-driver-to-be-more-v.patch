@@ -1,7 +1,7 @@
 From c7c7d4e9159418642c80d34dbb7ead8368619565 Mon Sep 17 00:00:00 2001
 From: CVMagic <546352+CVMagic@users.noreply.github.com>
 Date: Thu, 16 May 2024 04:57:32 +0000
-Subject: [PATCH 154/172] [NOT-FOR-UPSTREAM] Updated AW87xxx driver to be more
+Subject: [PATCH 155/176] [NOT-FOR-UPSTREAM] Updated AW87xxx driver to be more
  verbose for debugging purposes, but also fixed Reset Pin GPIO initialization
  issue with Ayn Loki Mini
 

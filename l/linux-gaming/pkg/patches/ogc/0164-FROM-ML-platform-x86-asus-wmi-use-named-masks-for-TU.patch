@@ -1,7 +1,7 @@
 From 2667f2d92a37137785145fd1acc9b43531f09558 Mon Sep 17 00:00:00 2001
 From: Idotoho Reimon Simanjuntak <idotohors@gmail.com>
 Date: Thu, 3 Sep 2026 00:47:16 +0700
-Subject: [PATCH 163/172] [FROM-ML] platform/x86: asus-wmi: use named masks for
+Subject: [PATCH 164/176] [FROM-ML] platform/x86: asus-wmi: use named masks for
  TUF RGB commands
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
